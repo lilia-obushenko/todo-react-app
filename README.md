@@ -1,4 +1,5 @@
 # TODO App with API
+- [DEMO](https://lilia-obushenko.github.io/todo-react-app/)
 - This project is a Todo App built using React with an API and Bulma. The Todo App allows users to add their tasks, mark them as completed, delete them, edit task names(with double click on todo), filter tasks by active, completed, or all, and also provides a button to mark all tasks as completed.
 
 ## The main objectives of the Todo App are to:
