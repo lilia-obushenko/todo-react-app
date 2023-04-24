@@ -1,4 +1,15 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# TODO App with API
+- This project is a Todo App built using React with an API and Bulma. The Todo App allows users to add their tasks, mark them as completed, delete them, edit task names(with double click on todo), filter tasks by active, completed, or all, and also provides a button to mark all tasks as completed.
+
+## The main objectives of the Todo App are to:
+
+- Provide users with a user-friendly interface for managing their tasks and to-do lists.
+- Allow users to easily add, edit, and delete tasks as needed.
+- Provide users with the ability to track the status of their tasks, including which tasks are completed and which tasks still need to be done.
+- Improve user productivity and organization by providing a centralized place for managing tasks and to-do lists.
+- Showcase the power and flexibility of React, API, and Bulma as development tools for building web applications.
+
+## Technologies
+- ReactJS
+- Rest API
+- Bulma
